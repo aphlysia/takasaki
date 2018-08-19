@@ -8,8 +8,8 @@
 
     <style type="text/css">
         #mynetwork {
-            width: 800px;
-            height: 600px;
+            width: {{width}}px;
+            height: {{height}}px;
             border: 1px solid lightgray;
         }
     </style>
