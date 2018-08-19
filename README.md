@@ -9,6 +9,13 @@ cd takasaki
 python setup.py install
 ```
 
+or
+
+```
+pip install takasaki
+```
+
+
 ### requirements
 
 - bottle
@@ -19,3 +26,5 @@ python setup.py install
 cd example
 python -m takasaki sample_net
 ```
+
+then access http://localhost:8888/
