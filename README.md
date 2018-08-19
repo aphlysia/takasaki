@@ -1,7 +1,15 @@
 # takasaki
 An viewer of machine learning experiments.
 
-## requirements
+## install
+
+```
+git clone https://github.com/aphlysia/takasaki.git
+cd takasaki
+python setup.py install
+```
+
+### requirements
 
 - bottle
 
