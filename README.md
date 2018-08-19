@@ -1,6 +1,13 @@
 # takasaki
-experiment code manager
+An viewer of machine learning experiments.
 
 ## requirements
 
 - bottle
+
+## example
+
+```
+cd example
+python -m takasaki sample_net
+```
