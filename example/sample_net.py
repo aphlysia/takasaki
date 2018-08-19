@@ -1,6 +1,7 @@
 nodes = {
-  1: {'id': 1, 'label': 'a.py', 'goodness': 10},
-  2: {'id': 2, 'label': 'b.py', 'goodness': 20},
+  1: {'id': 1, 'label': 'a.py', 'option': {
+    'goodness': 10}},
+  2: {'id': 2, 'label': 'b.py', 'option': {'goodness': 20}},
   3: {'id': 3, 'label': 'c'},
   4: {'id': 4, 'label': 'd'},
 }
