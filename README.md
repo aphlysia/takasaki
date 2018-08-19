@@ -1,5 +1,5 @@
 # takasaki
-An viewer of machine learning experiments.
+A viewer of machine learning experiments.
 
 ## install
 
